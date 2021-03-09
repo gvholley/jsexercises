@@ -1,3 +1,7 @@
+//Callback Function
+//Function that is passed to another function as an argument
+//And is executed after an operation has been completed
+
 function modifyArray(arr, callback) {
   // do something to arr here
   arr.push(100);
